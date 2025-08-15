@@ -10,3 +10,13 @@ export default function Home() {
     </div>
   );
 }
+
+
+// we have learnt nextjs installation
+// project folder structure
+// page.js file 
+// Static Routes
+// Dynamic Routes
+// Nested Routes
+// Routes on n level
+// Catch all routes
