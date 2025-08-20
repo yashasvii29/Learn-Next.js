@@ -12,7 +12,8 @@ export default function Home() {
 }
 
 
-// we have learnt nextjs installation
+// we have learnt 
+// nextjs installation
 // project folder structure
 // page.js file 
 // Static Routes
